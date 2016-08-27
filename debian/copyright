@@ -10,5 +10,6 @@ Files: *
 Copyright: 2015-2016 neil <pc@byneil.com>
 License: GPL-3
 
-On Debian systems, you can find the full text of the GNU General Public
-License v3 in `/usr/share/common-licenses/GPL-3'.
+License: GPL-3
+ On Debian systems, you can find the full text of the GNU General Public
+ License v3 in `/usr/share/common-licenses/GPL-3'.
