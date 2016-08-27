@@ -10,5 +10,5 @@ Vcs-Browser: https://github.com/Neilpang/acme.sh
 
 Package: acme.sh
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, curl, netcat-openbsd, openssl, sed, wget
+Depends: ${shlibs:Depends}, ${misc:Depends}, curl, netcat-openbsd, openssl, wget
 Description: An ACME Shell script, a certbot client: acme.sh
