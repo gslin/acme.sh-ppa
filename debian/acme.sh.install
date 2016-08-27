@@ -1,1 +1,8 @@
-acme.sh /usr/sbin
+acme.sh /usr/sbin/
+dnsapi/dns_cf.sh /usr/lib/acme.sh/
+dnsapi/dns_cx.sh /usr/lib/acme.sh/
+dnsapi/dns_dp.sh /usr/lib/acme.sh/
+dnsapi/dns_gd.sh /usr/lib/acme.sh/
+dnsapi/dns_lexicon.sh /usr/lib/acme.sh/
+dnsapi/dns_myapi.sh /usr/lib/acme.sh/
+dnsapi/dns_ovh.sh /usr/lib/acme.sh/
