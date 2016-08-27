@@ -2,10 +2,13 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: acme.sh
 Source: https://github.com/Neilpang/acme.sh
 
-Files: *
-Copyright: 2015-2016 neil <pc@byneil.com>
-License: GPL-3.0
-
 Files: debian/*
 Copyright: 2016 Gea-Suan Lin (PPA) <gslin@gslin.org>
-License: GPL-3.0
+License: GPL-3
+
+Files: *
+Copyright: 2015-2016 neil <pc@byneil.com>
+License: GPL-3
+
+On Debian systems, you can find the full text of the GNU General Public
+License v3 in `/usr/share/common-licenses/GPL-3'.
