@@ -1,3 +1,33 @@
+acme.sh (2.3.0-1ubuntu1~unstable~ppa6) unstable; urgency=medium
+
+  * Fix acme.sh.install.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 28 Aug 2016 03:36:21 +0800
+
+acme.sh (2.3.0-1ubuntu1~unstable~ppa5) unstable; urgency=medium
+
+  * Use acme.sh.dirs to create directories.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 28 Aug 2016 03:33:27 +0800
+
+acme.sh (2.3.0-1ubuntu1~unstable~ppa4) unstable; urgency=medium
+
+  * Change to 3.0 (quilt).
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 28 Aug 2016 03:25:02 +0800
+
+acme.sh (2.3.0-1ubuntu1~unstable~ppa3) unstable; urgency=medium
+
+  * Path fix.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 28 Aug 2016 03:21:01 +0800
+
+acme.sh (2.3.0-1ubuntu1~unstable~ppa2) unstable; urgency=medium
+
+  * Install DNS libraries into /usr/lib/acme.sh/.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 28 Aug 2016 03:06:20 +0800
+
 acme.sh (2.3.0-1ubuntu1~unstable~ppa1) unstable; urgency=medium
 
   * Initial Release.
