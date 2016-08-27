@@ -1,3 +1,9 @@
+acme.sh (2.3.0-1ubuntu1~unstable~ppa7) unstable; urgency=medium
+
+  * Bump version.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 28 Aug 2016 03:39:19 +0800
+
 acme.sh (2.3.0-1ubuntu1~unstable~ppa6) unstable; urgency=medium
 
   * Fix acme.sh.install.
