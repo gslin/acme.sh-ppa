@@ -1,3 +1,9 @@
+acme.sh (2.5.2-1ubuntu1~unstable~ppa1) unstable; urgency=medium
+
+  * Upgrade to 2.5.2.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Wed, 28 Sep 2016 10:49:24 +0800
+
 acme.sh (2.3.0-1ubuntu1~unstable~ppa8) unstable; urgency=medium
 
   * Fix all errors.
